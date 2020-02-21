@@ -24,6 +24,7 @@ Here an augmented reality approach is where normal, optical filters-based laser 
 It is also possible to combine the image reproduction system with the laser protection filter glasses, for example using wave guides, although that would be a subpar implementation.
 
 Augmented Reality in combination with regular Laser protection glasses have already been patented: US20160349539A1
+As well as an implementation as described here for laser visualization: US8334899B1 
 
 The novelty here is the inclusion of one or more cameras on the body of the glasses to visualize the laser radiation on the internal image reproduction system.
 
