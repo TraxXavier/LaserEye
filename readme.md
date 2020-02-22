@@ -8,7 +8,7 @@ Using modern Technology there are multiple approaches how to implement eye prote
 
 The most obvious Approach to this issue is to use cameras to record the surroundings and reproduce it on Micro-Displays inside the laser protection glasses. Hence allowing the wearer to see the world in full color + additional wavelengths that the cameras can record, while being fully protected as there is no direct optical path a laser beam could hit the eyes.
 
-Like patented under: US2009231417A1, US8334899, US2012249400A1, US20120249400, WO2017182431
+Like patented under: US2009231417A1, US2012249400A1, US20120249400, WO2017182431
 
 This approach is very challenging regarding its technical implementations, the streamed picture needs to be sufficiently high resolution and have sufficiently low latency, an image correction for the cameras perspective not being placed in the user’s head may also be necessary to improve the user experience.
 
