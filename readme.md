@@ -26,8 +26,6 @@ It is also possible to combine the image reproduction system with the laser prot
 Augmented Reality in combination with regular Laser protection glasses have already been patented: US20160349539A1
 As well as an implementation as described here for laser visualization: US8334899B1 
 
-The novelty here is the inclusion of one or more cameras on the body of the glasses to visualize the laser radiation on the internal image reproduction system.
-
 Using control elements like one (or multiple) touch pad and/ or buttons on the body of the glasses can allow to control the device, to adjust the image overlap, camera exposure, zoom, focus, etc… as well as control the AR aspects of the product, the controls can also be used to enable/disable the image, or switch between off, image pass through, AR or image pass through + AR.
 Another way of controlling the device may be gestures, as perceived by the camera’s, or radar ICs, or accelerometers placed in the product itself, or other interface concepts already known in the VR/AR field.
 
