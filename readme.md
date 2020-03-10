@@ -42,6 +42,8 @@ As the cost of high-performance optical filter glasses is high, it is expedient 
 Another component worth implementing in a replaceable manner are the cameras (or camera if there is only one) themselves, as they not only may suffer damage from direct laser incident (and user reparability here would be a usability improvement) but being customizable would benefit the customers a lot.
 Camera varies greatly in their spectral capabilities as do the associated costs, hence it is very useful when the user can swap in the right camera type for his application on his own.
 
+To improve the user expirience a shutter like an LCD can be used to when desired by the user block the direct view (overall or only in the image overlapp area) such that the user perceves only the image form the cammera(s) on the internal displays. This may be desired to not have superempsed images when it may be distracting. The shutter may be operable by a dedicated switch.
+
 
 ## Simplified Extended Spectral perception + Limited protection
 
